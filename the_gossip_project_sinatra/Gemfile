@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby '2.5.1'
+gem 'rspec'
+gem 'pry'
+gem 'dotenv'
+gem 'sinatra'
+gem 'bundler'
+gem 'shotgun'
+gem'csv'
+gem 'pry'
